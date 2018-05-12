@@ -1,5 +1,8 @@
 _repo: Dotty-Dimple-at-Play_10320
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: May, Sophie
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3465
     wikipedia: http://en.wikipedia.org/wiki/Rebecca_Sophia_Clarke
 description: A little girl is disobedient and learns to regret her behavior.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10320#Dotty-Dimple-at-Play
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '2003-11-01'
 gutenberg_type: Text
